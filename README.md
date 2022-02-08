@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou estudando, 3°ano do Ensino Médio
 - 🌱 Faço curso no Alura de HTML5 e CSS3
 - 😄 Pronouns: ele/dele
-
+- 
 <div align="left">
   <a href="https://github.com/tiagoadag1203">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoadag1203&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -24,9 +24,3 @@
   <a href="https://www.linkedin.com/in/tiago-augusto-dal-acqua-gonçalves-44983321b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  
-  <div class="card">
-<a>Instagram</a>
-<a><img height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"">Linkedin</a>
-<a><img src="https://fonts.google.com/icons?selected=Material%20Icons%20Outlined%3Aemail%3A">Email</a>
-</div>
