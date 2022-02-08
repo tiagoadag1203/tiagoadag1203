@@ -177,7 +177,7 @@ const themes = {
   gotham: {
     title_color: "2aa889",
     icon_color: "599cab",
-    text_color: "99d1ce",
+    text_color: "000000",
     bg_color: "0c1014",
   },
   "material-palenight": {
