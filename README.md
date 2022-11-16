@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente estou estudando, 3°ano do Ensino Médio
 - 🌱 Faço curso no Alura de HTML5 e CSS3
-- 😄 Pronouns: ele/dele
  
 <div align="left">
   <a href="https://github.com/tiagoadag1203">
