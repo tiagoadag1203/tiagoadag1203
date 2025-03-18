@@ -15,4 +15,6 @@ Olá, eu sou Tiago Augusto 👋<br><br>🎓 Estudante de Ciências da Computaç�
 ---
 [![](https://visitcount.itsvg.in/api?id=tiagoadag1203&icon=5&color=6)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/tiagoadag1203/tiagoadag1203/output/snake.svg" alt="Snake animation" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
