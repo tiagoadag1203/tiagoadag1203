@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, eu sou Tiago Augusto 👋<br><br>🎓 Estudante de Ciências da Computação<br>💻 Estagiário na Multimídia Educacional<br>🚀 Sempre buscando aprender e aprimorar minhas habilidades em tecnologia<br>🛠️ Habilidades: Organização, comprometimento e dedicação em todas as atividades<br>📈 Objetivo: Evoluir constantemente e aprender cada vez mais no campo da tecnologia<br>
+Olá, eu sou Tiago Augusto 👋<br><br>🎓 Estudante de Ciências da Computação<br>💻 Desenvolvedor Júnior na Multimídia Educacional<br>🚀 Sempre buscando aprender e aprimorar minhas habilidades em tecnologia<br>🛠️ Habilidades: Organização, comprometimento e dedicação em todas as atividades<br>📈 Objetivo: Evoluir constantemente e aprender cada vez mais no campo da tecnologia<br>
 
 
 ## 🌐 Socials:
